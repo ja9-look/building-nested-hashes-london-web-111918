@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-hero = epic_tragedy[:hero]
+
 
   
 
